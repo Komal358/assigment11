@@ -1,0 +1,110 @@
+*{padding: 0;margin:0;}
+
+.main-bax{
+    width: 1200px;
+    height: 1000px;
+    background-color: white;
+    margin: auto;
+}
+
+.header{
+    width: 1200px;
+    height: 150px;
+    background-color: rgb(163, 156, 209);
+    
+    }
+
+.brand{
+    width: 400px;
+    height: 150px;
+    background-color: darkcyan;
+    display: inline;
+    padding: 20px;
+    background: local;
+    
+    }
+
+.media{
+    
+    width: 800px;
+    height: 100px;
+    background-color: palevioletred;
+    display:inline-block;
+    margin-left:  250px;
+    text-align: left;
+     }
+.menu{
+    width: 800px;
+    height: 50px;
+    background-color: rgb(173, 108, 108);
+    margin-top: 82px;
+    text-align: center;
+    
+}
+
+.container{
+    width: 1200px;
+    height: 800px;
+    background-color:rgb(143, 108, 124);
+    padding-top: 80px;
+}
+.gallary{
+    width: 1200px;
+    height: 400px;
+    background-color: darksalmon;
+    padding-top: 100px;
+    text-align: center;
+    }
+
+.courses{
+    width: 1200px;
+    height: 400px;
+    background-color:rgb(43, 114, 143);
+
+   }
+
+.camp{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(175, 64, 179);
+    display: inline-block;
+    text-align: center;
+    }
+
+.cloud{
+    width: 300px;
+    height: 400px;
+    background-color: darkcyan;
+    display: inline-block;
+    text-align: center;
+    }
+
+.machine{
+    width: 300px;
+    height: 400px;
+    background-color:plum;
+    display: inline-block;
+    text-align: center;
+    }
+    
+.system{
+    width: 300px;
+    height: 400px;
+    background-color: blueviolet;
+    display: inline;
+    padding-bottom: 380px;
+    padding-right: 130px;
+    text-align: center;
+}
+
+.footer{
+    width:1200px ;
+    height: 50px;
+    background-color: rgb(189, 25, 107);
+}
+
+
+
+
+
+

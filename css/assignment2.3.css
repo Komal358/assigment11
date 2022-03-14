@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-box{
+width: 100%;
+border: 1px solid white;
+background-color:white;
+}
+
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: purple;
+    margin-bottom:1px;
+    padding-top: 60px;
+    text-align: center;
+}
+.menu{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+    margin-bottom: 1px;
+    padding-top: 60px;
+    text-align: center;
+
+}
+.content{
+    display: inline-block;
+    text-align: center;
+    height: 150px;
+    width: 20%;
+    background-color: rgb(104, 100, 100);
+    padding-top: 80px;
+    
+    }
+
+    
+.main{
+    float: right;
+    text-align: center;
+    height: 150px;
+    width: 60%;
+    background-color: darksalmon;
+    padding-top: 80px;
+    }
+   
+ .content{
+    float: right;
+    text-align: center;
+    height: 150px;
+    width: 20%;
+    background-color: rgb(102, 95, 95);
+    padding-top: 80px;
+    
+    }
+
+
+.footer{
+    height: 300px;
+    width: 100%;
+    background-color:purple;
+    text-align: center;
+    margin-top: 1px;
+    padding-top:50px;
+}
